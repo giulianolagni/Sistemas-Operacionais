@@ -1,0 +1,3 @@
+aonde ficam armazenados o step pointer e pc ... pcb  BCP
+virtualizaçao diminui o desempenho em pcs domesticos ... sim ou nao, sim
+
