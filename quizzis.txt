@@ -1,5 +1,6 @@
-aonde ficam armazenados o step pointer e pc ... pcb  BCP
-virtualizaçao diminui o desempenho  em pcs domesticos ... sim ou nao, sim
+aonde ficam armazenados o step pointer e pc ... "pcb"  BCP
+virtualizaçao diminui o desempenho  em pcs domesticos ... "sim" ou nao
 tipos de virtualizaçao 
 firmware é um drive para 
-arduino utiliza firmware, verdadeiro ou falso, verdadeiro
+arduino utiliza firmware, "verdadeiro" ou falso
+no tipo 1 quem fazem as funcoes ... "hipervisor" hardware, so, aplicacao
